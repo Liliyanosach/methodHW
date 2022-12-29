@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/methodhW.iml
+/.idea/
